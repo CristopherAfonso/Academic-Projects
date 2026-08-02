@@ -50,12 +50,6 @@ This project focuses on the practical application of penetration testing methodo
 
 ---
 
-# 🎯 Purpose
-
-The objective of this repository is to showcase academic work related to cybersecurity while providing publicly accessible versions suitable for professional portfolios and technical review.
-
----
-
 # ⚠️ Disclaimer
 
 These documents are provided exclusively for academic and professional portfolio purposes.
