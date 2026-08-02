@@ -54,18 +54,6 @@ The objective of this repository is to showcase academic work related to cyberse
 
 ---
 
-# 📄 Repository Structure
-
-```
-Academic-Projects/
-│
-├── Bachelor's Thesis - Red Team Techniques.pdf   
-├── Master's Thesis - Experimental Evaluation of WiFi Security.pdf
-└── README.md
-```
-
----
-
 # ⚠️ Disclaimer
 
 These documents are provided exclusively for academic and professional portfolio purposes.
