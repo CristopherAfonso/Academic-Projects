@@ -4,6 +4,8 @@ Repository containing the public versions of my Bachelor's and Master's theses c
 
 Both documents have been edited to remove personal information while preserving their complete technical content.
 
+> ⚠️ Note: Both theses are written in Spanish. A brief summary in English is included within each document.
+
 ---
 
 # 📚 Contents
@@ -60,4 +62,4 @@ These documents are provided exclusively for academic and professional portfolio
 
 Personal information has been removed from the public versions.
 
-The intellectual property of both works remains with the original author.
+All rights regarding these works remain with the author.
